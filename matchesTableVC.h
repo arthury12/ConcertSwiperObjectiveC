@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  matchesTableVC.h
 //  concertSwiper
 //
 //  Created by Arthur Yu on 2/23/16.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface matchesTableVC : UIViewController
 
 @end
-
