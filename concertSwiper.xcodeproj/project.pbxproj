@@ -96,11 +96,11 @@
 				285120801C7F7C7E001DDA87 /* customArtistModel.m */,
 				285120751C7D241C001DDA87 /* matchesTableVC.h */,
 				285120731C7D2408001DDA87 /* matchesTableVC.m */,
+				285120511C7D1E6A001DDA87 /* ViewController.h */,
 				285120721C7D238B001DDA87 /* swipeVC.h */,
 				285120701C7D2372001DDA87 /* swipeVC.m */,
 				2851204E1C7D1E6A001DDA87 /* AppDelegate.h */,
 				2851204F1C7D1E6A001DDA87 /* AppDelegate.m */,
-				285120511C7D1E6A001DDA87 /* ViewController.h */,
 				285120521C7D1E6A001DDA87 /* ViewController.m */,
 				285120541C7D1E6A001DDA87 /* Main.storyboard */,
 				285120571C7D1E6A001DDA87 /* Assets.xcassets */,
@@ -424,6 +424,7 @@
 				2851206C1C7D1E6A001DDA87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2851206D1C7D1E6A001DDA87 /* Build configuration list for PBXNativeTarget "concertSwiperTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +433,7 @@
 				2851206F1C7D1E6A001DDA87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

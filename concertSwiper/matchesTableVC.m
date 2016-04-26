@@ -8,7 +8,7 @@
 
 #import "matchesTableVC.h"
 
-@interface matchesTableVC ()
+@interface matchesTableVC () <UITableViewDataSource, UITableViewDelegate>
 
 @end
 
@@ -18,6 +18,14 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+
+- (NSInteger) tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return 5;
+}
+
+//- (UITableViewCell *) tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+//    return;
+//}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

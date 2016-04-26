@@ -87,7 +87,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <state key="normal" title="Matches"/>
                                                 <connections>
-                                                    <segue destination="rsC-oG-AlT" kind="show" id="tRY-ET-LxS"/>
+                                                    <segue destination="rsC-oG-AlT" kind="show" identifier="matchesSegue" id="tRY-ET-LxS"/>
                                                 </connections>
                                             </button>
                                         </barButtonItem>
